@@ -1,0 +1,193 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8" />
+  <title>Privacy Policy - Word Wizard Quest</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <style>
+    body {
+      font-family: system-ui, -apple-system, BlinkMacSystemFont, "Segoe UI", sans-serif;
+      margin: 0;
+      padding: 0;
+      background: #f5f5f7;
+      color: #222;
+      line-height: 1.6;
+    }
+
+    .container {
+      max-width: 900px;
+      margin: 0 auto;
+      padding: 32px 16px 48px;
+    }
+
+    h1, h2, h3 {
+      color: #111827;
+      margin-top: 1.8em;
+      margin-bottom: 0.4em;
+    }
+
+    h1 {
+      margin-top: 0;
+      font-size: 2rem;
+    }
+
+    p {
+      margin: 0.4em 0 1em;
+    }
+
+    ul {
+      margin: 0.4em 0 1.2em 1.2em;
+      padding-left: 1em;
+    }
+
+    strong {
+      font-weight: 600;
+    }
+
+    .meta {
+      color: #4b5563;
+      font-size: 0.95rem;
+      margin-bottom: 1.5em;
+    }
+
+    a {
+      color: #2563eb;
+      text-decoration: none;
+    }
+
+    a:hover {
+      text-decoration: underline;
+    }
+
+    .section-title {
+      font-size: 1.2rem;
+      margin-top: 1.6em;
+    }
+
+    .footer-note {
+      margin-top: 2.5em;
+      font-size: 0.9rem;
+      color: #6b7280;
+    }
+  </style>
+</head>
+<body>
+  <main class="container">
+    <h1>Privacy Policy</h1>
+    <p class="meta"><strong>Effective Date:</strong> [DD Month YYYY]</p>
+    <p>
+      Thank you for playing <strong>Word Wizard Quest</strong> (“the Game”, “we”, “our”, “us”).
+      Your privacy is important to us, and this Privacy Policy explains how we collect, use, and protect your information.
+    </p>
+
+    <h2 class="section-title">1. Information We Collect</h2>
+    <p>We collect only the minimum information required to provide and improve the game experience.</p>
+
+    <h3>a. Personal Information</h3>
+    <p>We <strong>do not collect</strong> personal information such as:</p>
+    <ul>
+      <li>Name</li>
+      <li>Email address</li>
+      <li>Phone number</li>
+      <li>Physical address</li>
+    </ul>
+
+    <h3>b. Device &amp; Game Data</h3>
+    <p>The Game may collect:</p>
+    <ul>
+      <li>Anonymous device identifiers (such as a device ID)</li>
+      <li>Game progress (level number, scores, in-game progress)</li>
+      <li>Basic usage data required for gameplay and stability</li>
+    </ul>
+    <p>
+      This data is used <strong>only</strong> to save progress and improve the gameplay experience.
+    </p>
+
+    <h2 class="section-title">2. How We Use Information</h2>
+    <p>We use the collected data to:</p>
+    <ul>
+      <li>Save and restore game progress</li>
+      <li>Enable essential game functionality</li>
+      <li>Improve game stability and performance</li>
+    </ul>
+    <p>We do <strong>not</strong> use your data for advertising or direct marketing.</p>
+
+    <h2 class="section-title">3. Third-Party Services</h2>
+    <p>
+      The Game uses third-party services that may collect information according to their own privacy policies.
+    </p>
+
+    <h3>Firebase (Google)</h3>
+    <p>We use Firebase for:</p>
+    <ul>
+      <li>Anonymous authentication</li>
+      <li>Cloud data storage for game progress</li>
+    </ul>
+    <p>No personally identifiable information is intentionally stored or required by us.</p>
+    <p>
+      You can read more about how Google handles data here:<br />
+      <a href="https://policies.google.com/privacy" target="_blank" rel="noopener noreferrer">
+        https://policies.google.com/privacy
+      </a>
+    </p>
+
+    <h2 class="section-title">4. Data Sharing</h2>
+    <p>
+      We <strong>do not sell, trade, or share</strong> your personal data with third parties, except:
+    </p>
+    <ul>
+      <li>When required to do so by law or legal process</li>
+      <li>When necessary to comply with legal obligations</li>
+    </ul>
+
+    <h2 class="section-title">5. Data Security</h2>
+    <p>
+      We take reasonable technical and organizational measures to protect your data, including:
+    </p>
+    <ul>
+      <li>Secure cloud storage</li>
+      <li>Restricted database access rules</li>
+      <li>Limitations on what data is collected and stored</li>
+    </ul>
+    <p>
+      However, no method of transmission over the internet or method of electronic storage is 100% secure.
+    </p>
+
+    <h2 class="section-title">6. Children’s Privacy</h2>
+    <p>
+      The Game does not knowingly collect personal information from children under the age of 13.
+      If you believe that your child has provided personal information, please contact us so that we can delete it.
+    </p>
+
+    <h2 class="section-title">7. Your Rights</h2>
+    <p>You may:</p>
+    <ul>
+      <li>Stop data collection by uninstalling the Game</li>
+      <li>Request deletion of stored game data by contacting us</li>
+    </ul>
+
+    <h2 class="section-title">8. Changes to This Policy</h2>
+    <p>
+      We may update this Privacy Policy from time to time.
+      Any changes will be posted on this page with an updated effective date.
+      Continued use of the Game after changes are posted constitutes acceptance of the updated policy.
+    </p>
+
+    <h2 class="section-title">9. Contact Us</h2>
+    <p>
+      If you have any questions or concerns about this Privacy Policy, please contact us:
+    </p>
+    <p>
+      📧 <strong>Email:</strong>
+      <a href="mailto:[your-support-email@example.com]">[your-support-email@example.com]</a><br />
+      🌐 <strong>Website:</strong>
+      <a href="[https://your-github-pages-site]" target="_blank" rel="noopener noreferrer">[https://your-github-pages-site]</a>
+    </p>
+
+    <p class="footer-note">
+      This Privacy Policy is intended to meet common app store requirements
+      (including Google Play) for games using minimal analytics and Firebase services.
+    </p>
+  </main>
+</body>
+</html>
